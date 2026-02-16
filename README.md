@@ -100,6 +100,12 @@ JSON Server will start at:
 http://localhost:3001/users
 ```
 
+// Local
+const API = "http://localhost:3001/users";
+
+// Live
+const API = "https://699312db8f29113acd3fe20a.mockapi.io/users";
+
 ---
 
 ### 4. Start React App
